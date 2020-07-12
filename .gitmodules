@@ -1,3 +1,6 @@
 [submodule "adding-up"]
 	path = adding-up
 	url = https://github.com/3tomcha/adding-up.git
+[submodule "git-study"]
+	path = git-study
+	url = https://github.com/3tomcha/git-study.git
